@@ -4,3 +4,7 @@ pip3 install futu-api
 
 
 https://openapi.futunn.com/futu-api-doc/intro/intro.html
+
+
+
+./FutuOpenD.app/Contents/MacOS/FutuOpenD
