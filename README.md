@@ -1,1 +1,3 @@
-# futut_1
+install futu - API
+
+pip3 install futu-api
